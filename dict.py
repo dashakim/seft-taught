@@ -1,5 +1,5 @@
-houses = {"Harry": "Gryffindor", "Droco":"Slitherin"}
+houses = {"Harry": "Gryffindor", "Droco": "Slitherin"}
 
-houses['Hermione'] = 'Gryffindor'
+houses["Hermione"] = "Gryffindor"
 
-print(houses['Hermione'])
+print(houses["Hermione"])
