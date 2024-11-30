@@ -4,4 +4,5 @@ if n > 0:
     print('is positive')
 elif n < 0:
     print('is negative')
-else: print('is 0')
+else:
+    print('is 0')
