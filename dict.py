@@ -1,3 +1,4 @@
+# example of dictionary
 houses = {"Harry": "Gryffindor", "Droco": "Slitherin"}
 
 houses["Hermione"] = "Gryffindor"
