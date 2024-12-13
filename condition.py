@@ -1,8 +1,8 @@
-n = int(input('Number: '))
+n = int(input("Number: "))
 
 if n > 0:
-    print('is positive')
+    print("is positive")
 elif n < 0:
-    print('is negative')
+    print("is negative")
 else:
-    print('is 0')
+    print("is 0")
