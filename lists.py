@@ -2,7 +2,7 @@
 names = ["Harry", "Ron", "Hermione"]
 
 # add to the array
-names.append('Draco')
+names.append("Draco")
 
 print(names)
 
